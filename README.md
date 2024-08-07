@@ -115,58 +115,49 @@
   </a>
 </p>
 
-<!--Stats-->
-### 📊 My GitHub Stats
-<h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
+
+<!--Repositories-->
+<a href="https://github.com/yourusername">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+<h3 align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+  </a>
+  【G i t H u b  S t a t s】  
+</h3>
+<a href="https://github.com/yourusername">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<br>
+<br> 
 
 <table width="100%" align="center">
   <tr>
     <td width="50%">
         <a href="https://github.com/JDenuevo">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=JDenuevo&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=JDenuevo&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JDenuevo&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JDenuevo&hide_border=true&theme=buefy&include_all_commits=true&count_private=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JDenuevo&hide_border=true&theme=buefy&include_all_commits=true&count_private=true&show_icons=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=JDenuevo&hide_border=true&theme=buefy&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
           </picture>
         </a>
     </td>
     <td width="50%">
         <a href="https://github.com/JDenuevo">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=JDenuevo&hide_border=true&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=JDenuevo&hide_border=true" />
-            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=JDenuevo&hide_border=true&theme=radical" alt="Streak Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JDenuevo&layout=compact&hide_border=true&theme=buefy&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JDenuevo&layout=compact&hide_border=true&theme=buefy&langs_count=10" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDenuevo&layout=compact&hide_border=true&theme=buefy&langs_count=10" alt="Top Languages" />
           </picture>
         </a>
     </td>
   </tr>
 </table>
-
-<h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="40%" align="center">
-        <a href="https://github.com/JDenuevo">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JDenuevo&layout=compact&hide_border=true&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JDenuevo&layout=compact&langs_count=10&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDenuevo&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
-          </picture>
-        </a>
-    </td>
-    <td width="60%" align="center">
-    <a href="https://github.com/JDenuevo">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JDenuevo&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JDenuevo&layout=compact&langs_count=10&hide_border=true&hide=other" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JDenuevo&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
-      </picture>
-    </a>
-</td>
-  </tr>
-</table>
-
 
 ### 🎯 Goals
 - **Short-term Goals**: Master advanced Vue.js concepts and improve UI/UX design skills.
