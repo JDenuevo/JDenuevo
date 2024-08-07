@@ -1,6 +1,3 @@
-<a href="https://github.com/yourusername"> 
- <img align="center" src="./images/header.png" width="100%">    
-</a>
 <p align="center">
   <!--Header-->
   <a href="https://github.com/JDenuevo"> 
@@ -18,20 +15,22 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
 </a>
 
-### Congratulations you found me
+### Know me more
 
-- 👨‍💻 I’m currently working on web development technologies like `Vue3 JS`, `Tailwind CSS`, and `Bootstrap`.
-- 📚 I’m currently learning **TypeScript and advanced Vue.js patterns**.
+- 👨‍💻 I’m currently working on web development technologies like `Vue3 JS`, `PHP`, and `Bootstrap/Tailwind CSS`.
+- 📚 I’m currently learning **TypeScript and advanced Vue JS patterns**.
 - 💪🏼 Future Goals: Expand my skillset with **backend development and API integrations**.
 
 <!--Contact-->
 ### Contact me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
-  <a href="http://yourportfolio.com/CV_YourName_2024.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/denuevo-jhemar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jd-portfolio-eight.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+  <a href="mailto:denuevojhemar.bsit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/jhhmmr" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<br>
+ <a href="https://drive.google.com/file/d/1f-qpl2-Wb5zzlaYg4WeBJb0DzVOwOiNF/view" target="_blank"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+
 </p>
 
 <!--Skills-->
@@ -69,16 +68,94 @@
 </div>
 
 <!--Projects-->
-### 🛠️ My Projects
+# My Projects
 
-- **Project 1**: [Project Name](https://github.com/yourusername/project1)  
-  Description of Project 1. It’s a brief overview of what the project is about and the technologies used.
+## PlantIQ
+**Description**: PlantIQ is a comprehensive solution featuring a marketing webpage and a mobile application web view for the Smart Indoor Plant Automatic Watering and Monitoring System. The webpage provides information about the hardware, instructions, and a direct download link for the APK, while the mobile application allows users to remotely track their plants' status and download the APK directly from the application.  
+**Technologies Used**: 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Figma
+- Git
+- cPanel
+- MySQL
+- PHP
 
-- **Project 2**: [Project Name](https://github.com/yourusername/project2)  
-  Description of Project 2. An outline of the key features and technologies implemented.
+**Webpage Demo**: [View Demo](https://plantiq.info)  
+**APK/Web View Demo**: [View Demo](https://app.plantiq.info/index.php)  
+**Webpage Repository**: [View on GitHub](https://github.com/Jmsoqty/Plantiques-PLANTIQ.git)  
+**APK/Web View Repository**: [View on GitHub](https://github.com/Jmsoqty/Plantiques-PLANTIQ.git)
 
-- **Project 3**: [Project Name](https://github.com/yourusername/project3)  
-  Description of Project 3. A summary of the main objectives and tools used.
+## Bergs PH | Web App Attendance Monitoring System with Face Recognition
+**Description**: A web and mobile application for attendance tracking with face recognition. It manages employee check-in and check-out times for payroll purposes.  
+**Technologies Used**: 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Figma
+- Git
+- MySQL
+- PHP
+- Python (for face recognition)
+
+**Repository**: [View on GitHub](https://github.com/JDenuevo/Attendance-Face-Recognition.git)
+
+## Bergs PH | Ticketing Management System
+**Description**: A web application for ticketing management that tracks ticket statuses and includes a chat function for communication between admins and users.  
+**Technologies Used**: 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Figma
+- Git
+- MySQL
+- PHP
+
+**Demo**: [View Demo](https://bergsph.com/ticketing/signing_in.php)  
+**Repository**: [View on GitHub](https://github.com/JDenuevo/BergsTicketing.git)
+
+## Bergs PH | Inventory Management System
+**Description**: A web application for inventory management. It allows for easy tracking of company inventory, including logs and counts, with both admin and user functionalities.  
+**Technologies Used**: 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Figma
+- Git
+- MySQL
+- PHP
+
+**Demo**: [View Demo](https://bergsph.com/ticketing/ims/pages/index.php)  
+**Repository**: [View on GitHub](https://github.com/JDenuevo/Inventory-Management-System.git)
+
+## Service Record Computerized Management System
+**Description**: An automated and computerized service record management system for the HR department at the University of Caloocan City.  
+**Technologies Used**: 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Figma
+- Git
+- MySQL
+- PHP
+
+**Repository**: [View on GitHub](https://github.com/JDenuevo/SRCMS.git)
+
+## CFSMS
+**Description**: A commissioned project featuring a single landing page I created.  
+**Technologies Used**: 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+**Repository**: [View on GitHub](https://github.com/third-example)
 
 <!--Stats-->
 ### 📊 My GitHub Stats
