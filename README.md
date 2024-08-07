@@ -9,15 +9,16 @@
 </p>
 
 <!--Intro-->
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/JDenuevo"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/JDenuevo"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blue"></a>
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/JDenuevo"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/JDenuevo"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=JDenuevo&style=for-the-badge&color=blue"></a>
 
-<a href="https://github.com/yourusername">   
+<a href="https://github.com/JDenuevo">   
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
 </a>
 
+
 ### Know me more
 
-- 👨‍💻 I’m currently working on web development technologies like `Vue3 JS`, `PHP`, and `Bootstrap/Tailwind CSS`.
+- 👨‍💻 I’m currently working on web development technologies like `Vue3 JS`, `Laravel/PHP`, and `Bootstrap/Tailwind CSS`.
 - 📚 I’m currently learning **TypeScript and advanced Vue JS patterns**.
 - 💪🏼 Future Goals: Expand my skillset with **backend development and API integrations**.
 
@@ -67,95 +68,52 @@
 
 </div>
 
-<!--Projects-->
-# My Projects
+<!--Repositories-->
+<a href="https://github.com/yourusername">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+<h3 align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+  </a>
+  【﻿R e p o s i t o r i e s】  
+</h3>
+<a href="https://github.com/yourusername">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
 
-## PlantIQ
-**Description**: PlantIQ is a comprehensive solution featuring a marketing webpage and a mobile application web view for the Smart Indoor Plant Automatic Watering and Monitoring System. The webpage provides information about the hardware, instructions, and a direct download link for the APK, while the mobile application allows users to remotely track their plants' status and download the APK directly from the application.  
-**Technologies Used**: 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Figma
-- Git
-- cPanel
-- MySQL
-- PHP
+<br>
+<br> 
 
-**Webpage Demo**: [View Demo](https://plantiq.info)  
-**APK/Web View Demo**: [View Demo](https://app.plantiq.info/index.php)  
-**Webpage Repository**: [View on GitHub](https://github.com/Jmsoqty/Plantiques-PLANTIQ.git)  
-**APK/Web View Repository**: [View on GitHub](https://github.com/Jmsoqty/Plantiques-PLANTIQ.git)
+<p align="center">
+  <a href="https://github.com/JDenuevo/PlantIQ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDenuevo&repo=PlantIQ&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff" width="300" style="max-width: 100%;" alt="PlantIQ">
+  </a>
+  <a href="https://github.com/JDenuevo/Inventory-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDenuevo&repo=Inventory-Management-System&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff" width="300" style="max-width: 100%;" alt="Inventory Management System">
+  </a>
+  <a href="https://github.com/JDenuevo/Attendance-Face-Recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDenuevo&repo=Attendance-Face-Recognition&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff" width="300" style="max-width: 100%;" alt="Attendance Face Recognition">
+  </a>
+  <a href="https://github.com/JDenuevo/BergsTicketing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDenuevo&repo=BergsTicketing&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff" width="300" style="max-width: 100%;" alt="Bergs Ticketing">
+  </a>
+  <a href="https://github.com/JDenuevo/SRCMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDenuevo&repo=SRCMS&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff" width="300" style="max-width: 100%;" alt="SRCMS">
+  </a>
+  <a href="https://github.com/JDenuevo/CFSMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDenuevo&repo=CFSMS&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff" width="300" style="max-width: 100%;" alt="CFSMS">
+  </a>
+</p>
 
-## Bergs PH | Web App Attendance Monitoring System with Face Recognition
-**Description**: A web and mobile application for attendance tracking with face recognition. It manages employee check-in and check-out times for payroll purposes.  
-**Technologies Used**: 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Figma
-- Git
-- MySQL
-- PHP
-- Python (for face recognition)
-
-**Repository**: [View on GitHub](https://github.com/JDenuevo/Attendance-Face-Recognition.git)
-
-## Bergs PH | Ticketing Management System
-**Description**: A web application for ticketing management that tracks ticket statuses and includes a chat function for communication between admins and users.  
-**Technologies Used**: 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Figma
-- Git
-- MySQL
-- PHP
-
-**Demo**: [View Demo](https://bergsph.com/ticketing/signing_in.php)  
-**Repository**: [View on GitHub](https://github.com/JDenuevo/BergsTicketing.git)
-
-## Bergs PH | Inventory Management System
-**Description**: A web application for inventory management. It allows for easy tracking of company inventory, including logs and counts, with both admin and user functionalities.  
-**Technologies Used**: 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Figma
-- Git
-- MySQL
-- PHP
-
-**Demo**: [View Demo](https://bergsph.com/ticketing/ims/pages/index.php)  
-**Repository**: [View on GitHub](https://github.com/JDenuevo/Inventory-Management-System.git)
-
-## Service Record Computerized Management System
-**Description**: An automated and computerized service record management system for the HR department at the University of Caloocan City.  
-**Technologies Used**: 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Figma
-- Git
-- MySQL
-- PHP
-
-**Repository**: [View on GitHub](https://github.com/JDenuevo/SRCMS.git)
-
-## CFSMS
-**Description**: A commissioned project featuring a single landing page I created.  
-**Technologies Used**: 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
-**Repository**: [View on GitHub](https://github.com/third-example)
+<p align="left">
+  <a href="https://github.com/JDenuevo?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
+</p>
 
 <!--Stats-->
 ### 📊 My GitHub Stats
