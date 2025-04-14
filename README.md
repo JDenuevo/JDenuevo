@@ -26,7 +26,7 @@
 ### Contact me:
 <p align="center">
   <a href="www.linkedin.com/in/denuevo-jhemar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://jd-portfolio-eight.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+  <a href="https://jhemar-denuevo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
   <a href="mailto:denuevojhemar.bsit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/jhhmmr" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 <br>
